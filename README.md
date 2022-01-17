@@ -2,30 +2,6 @@
 
 Multimedia files for web-based experiments
 
-## Getting started
-
-1. Log in to GitHub, making an account if you don't already have one.
-
-2. Click the "Fork" button at the top right of this page. This will copy the template stimuli repository to your own account. 
-
-3. Edit the description (which will still be "A template repository for Lookit researchers who want to host their stimuli on GitHub") so it reflects the planned content of your repository.
-
-## Adding your stimuli
-
-From your own fork, you can add stimuli right in GitHub like this:
-
-1. Click on the appropriate directory. For images, that's `img`. For audio and video files, the appropriate directory depends on their file format. For instance, mp4 files go in the `mp4` directory.
-
-2. Click 'Upload files.' Drag and drop the files from your computer that you want to put online.
-
-3. Click 'Commit changes,' adding a brief message explaining what you added or changed for posterity.
-
-By keeping the various file types in their own directories, and using the same filenames for equivalent files (like an mp4 and webm version of the same video), you will be ready to make use 
-
-### What if I want more directories, or sub-directories within these?
-
-That's most straightforward to do using the command line or a desktop client for GitHub, like [GitHub Desktop](https://desktop.github.com/) or [Sourcetree](https://www.sourcetreeapp.com/). However, you can also do it right in Github by clicking 'Create new file' instead of 'Upload files' from the place where you want to add a new directory. Then, in the box to type the file name, type `NewDirectoryName/README.md`, replacing NewDirectoryName with your desired directory name.  This will create the new directory and a README.md file inside it. Then you can add other files too.
-
 ## Accessing your stimuli and telling Lookit where to find them (or: what do I put for ``baseDir``?)
 
 You have two options:
